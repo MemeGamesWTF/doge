@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1732709645,
+	"version": 1732771656,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,6 +24,8 @@
 		"images/sprite11-sheet0.png",
 		"images/sprite12-sheet0.png",
 		"images/sprite13-sheet0.png",
+		"media/memeg - my money (doge coin fall game).m4a",
+		"media/memeg - my money (doge coin fall game).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
